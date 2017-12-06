@@ -1,1 +1,192 @@
-/* Los estilos de tu proyecto */
+
+body .navbar-default{
+	background-color: #ffffff;
+	border:none;
+
+}
+.parte-1 .container-fluid{
+padding-left: 0;
+padding-right: 0;
+height:100vh;
+}
+
+/*quitando propiedades predeterminadas*/
+.jumbotron{
+	background-color: #ffff;
+height: 100vh;
+}
+
+/*quitando color gris de jumbotron*/
+
+ body div .parte-1{
+height:500px;
+width: 100%;
+background-color:#ffffff;
+}
+
+body .parte-1 .jumbotron{
+background-image: url(../assets/images/taxi.jpg);
+background-size: 100%;
+background-position: center;
+background-position:bottom;
+background-repeat:no-repeat;
+height:100vh;
+}
+.fila-1 .parrafo{
+	height: 100%;
+	width: 50%;
+	background-color: #F7B617;
+	padding-top: 0;
+	color:#ffffff;
+	margin-left: 674px;
+
+}
+.parte-1{
+height:100vh;
+}
+.fila-1 .parrafo h3{
+	line-height: 5px;
+	}
+
+	.fila-1 .parrafo p img{
+    height: 5%;
+    width: 10%;
+	}
+
+	.fila-1 .parrafo .interna .centro{
+text-align: center
+	}
+
+	.fila-1 .parrafo button{
+font-weight: bold;
+	}
+
+	.fila-1 .parrafo button .conductor{
+font-weight: bold;
+	}
+.interna .conducción{
+padding-bottom: 21px;
+}
+
+.fila-1{
+	align:left;
+}
+.parte-2{
+	background-color: #F7B617;
+	padding: 0;
+	height: 100vh;
+	padding-top: 120px;
+}
+.parte-2 .interior-caja{
+border:1px solid white;
+padding-right: 35px;
+padding-left: 25px;
+margin-left: 0;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+.columna-segunda{
+	color:#ffffff;
+}
+.columna-2 .titulo{
+	padding-bottom:9px;
+	font-size: 30px;
+}
+.columna-2 .primer-parr{
+	line-height: 25px;
+	  font-size: 20px;
+	  text-align: justify;
+}
+
+.columna-segunda .segundo-parr{
+	line-height: 25px;
+	 font-size: 20px;
+	 text-align: justify;
+}
+
+/*editando tercera sección de mi página*/
+
+.parte-3{
+background-image: url(../assets/images/conduce.jpg);
+	background-size: 100%;
+background-position: center;
+background-position:bottom;
+background-repeat:no-repeat;
+height:100vh;
+}
+.parte-3 .unica-caja{
+	height: 100vh;
+
+}
+
+/*editando cuarta sección de mi página*/
+
+.parte-4{
+	background-color: #F7B617;
+	padding: 0;
+	height: 100vh;
+	padding-top: 70px;
+}
+.parte-4 .interior-box{
+padding-right: 35px;
+padding-left: 25px;
+margin-left: 0;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.parte-4 .interior-box .fila-1{
+margin-left: 50px
+}
+
+
+.columna-1{
+	color:#ffffff;
+}
+.columna-1 .titulo-uno{
+	padding-bottom:9px;
+	font-size: 40px;
+}
+.columna-1 .titulo-dos{
+	line-height: 25px;
+	  font-size: 20px;
+	  text-align: justify;
+}
+
+.columna-2{
+	border:3px solid white;
+	padding-top: 20px;
+}
+.columna-2 iframe{
+height: 400px;
+
+}
+
+/*editando quinta sección de mi página*/
+
+.parte-5{
+	background-color:#2B2B2B;
+	padding: 0;
+	height: 100vh;
+	padding-top: 70px;
+}
+.primera-parte .social-facebook{
+	color: #ffffff;
+}
+
+ .segunda-parte ul li{
+	color:#ffffff; 
+	list-style: none;
+  line-height: 35px;
+}
+
+ .tercera-parte ul li{
+	color:#ffffff; 
+	list-style: none;
+  line-height: 35px;
+}
+
+.quinta-parte{
+	color:#ffffff;
+}
+
